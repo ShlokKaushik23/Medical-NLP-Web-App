@@ -1,6 +1,6 @@
 # Medical-NLP-Web-App
 This project focuses on developing an AI-based system that converts medical transcripts into structured SOAP (Subjective, Objective, Assessment, Plan) notes. By leveraging Natural Language Processing (NLP) techniques, the model extracts key medical details such as symptoms, diagnoses, treatments, and prognoses from physician-patient conversations.
-Instructions on Setting Up and Running the Application
+--> Instructions on Setting Up and Running the Application
 1. Install Dependencies
 Ensure you have Python installed, then install the required libraries:
 
@@ -19,7 +19,7 @@ streamlit run app.py
 3. Access the Application
 Once the server starts, you’ll see a local URL (e.g., http://localhost:8501/). Open this in your browser to interact with the app.
 
-Methodologies Used
+--> Methodologies Used
 1. Named Entity Recognition (NER) for Medical Information Extraction
 Algorithm: SpaCy's en_core_web_sm model is used for NER.
 Reasoning: Detects key medical entities (symptoms, diagnosis, treatment) efficiently.
