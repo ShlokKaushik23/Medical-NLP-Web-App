@@ -1,5 +1,7 @@
 # Medical-NLP-Web-App
 This project focuses on developing an AI-based system that converts medical transcripts into structured SOAP (Subjective, Objective, Assessment, Plan) notes. By leveraging Natural Language Processing (NLP) techniques, the model extracts key medical details such as symptoms, diagnoses, treatments, and prognoses from physician-patient conversations.
+
+
 --> Instructions on Setting Up and Running the Application
 1. Install Dependencies
 Ensure you have Python installed, then install the required libraries:
